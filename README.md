@@ -2,6 +2,7 @@
 
 This is a simple web application for managing and displaying a list of healthcare services. It is built using React and Vite.
 
+###live on: https://yosrajalali.github.io/healthcare-services/
 ## Features
 
 - Display a list of healthcare services
@@ -21,11 +22,15 @@ This is a simple web application for managing and displaying a list of healthcar
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/yosrajalali/healthcare-services.git
    cd your-repo-name
 
 2. Install the dependencies:
-    npm install
 
-3. Running the Development Server
+   ```bash
+   npm install
+
+4. Running the Development Server
+
+   ```bash
   npm run dev
